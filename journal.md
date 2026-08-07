@@ -5,3 +5,4 @@
 - 2026-08-07 01:27 - test: add regression test for #123
 - 2026-08-07 02:36 - style: fix inconsistent quotes
 - 2026-08-07 03:31 - fix: restore missing import
+- 2026-08-07 04:19 - docs: summarize weekly review
