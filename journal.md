@@ -6,3 +6,4 @@
 - 2026-08-07 02:36 - style: fix inconsistent quotes
 - 2026-08-07 03:31 - fix: restore missing import
 - 2026-08-07 04:19 - docs: summarize weekly review
+- 2026-08-07 08:41 - feat: add config validation helper
