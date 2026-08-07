@@ -8,3 +8,4 @@
 - 2026-08-07 04:19 - docs: summarize weekly review
 - 2026-08-07 08:41 - feat: add config validation helper
 - 2026-08-07 09:57 - test: add integration test for sync
+- 2026-08-07 10:55 - test: add regression test for #123
