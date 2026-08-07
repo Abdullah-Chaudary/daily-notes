@@ -4,3 +4,4 @@
 - 2026-08-07 00:56 - test: add integration test for sync
 - 2026-08-07 01:27 - test: add regression test for #123
 - 2026-08-07 02:36 - style: fix inconsistent quotes
+- 2026-08-07 03:31 - fix: restore missing import
