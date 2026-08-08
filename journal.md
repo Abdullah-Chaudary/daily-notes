@@ -13,3 +13,4 @@
 - 2026-08-08 06:27 - fix: resolve null pointer on empty input
 - 2026-08-08 07:31 - fix: correct timestamp formatting
 - 2026-08-08 08:51 - test: add regression test for #123
+- 2026-08-08 09:22 - security: tighten file permissions
