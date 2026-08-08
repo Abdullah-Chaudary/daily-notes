@@ -9,3 +9,4 @@
 - 2026-08-07 08:41 - feat: add config validation helper
 - 2026-08-07 09:57 - test: add integration test for sync
 - 2026-08-07 10:55 - test: add regression test for #123
+- 2026-08-08 05:17 - notes: capture meeting takeaways
