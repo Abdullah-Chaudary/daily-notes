@@ -17,3 +17,4 @@
 - 2026-08-08 10:37 - chore: remove stale TODOs
 - 2026-08-09 06:36 - wip: rough draft of algorithm
 - 2026-08-09 07:43 - fix: validate date range before parse
+- 2026-08-09 08:42 - build: parallelize build steps
