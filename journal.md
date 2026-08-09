@@ -16,3 +16,4 @@
 - 2026-08-08 09:22 - security: tighten file permissions
 - 2026-08-08 10:37 - chore: remove stale TODOs
 - 2026-08-09 06:36 - wip: rough draft of algorithm
+- 2026-08-09 07:43 - fix: validate date range before parse
