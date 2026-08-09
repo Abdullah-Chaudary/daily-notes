@@ -19,3 +19,4 @@
 - 2026-08-09 07:43 - fix: validate date range before parse
 - 2026-08-09 08:42 - build: parallelize build steps
 - 2026-08-09 09:48 - style: clean up trailing whitespace
+- 2026-08-09 10:38 - refactor: reduce duplicated logic
