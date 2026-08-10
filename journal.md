@@ -21,3 +21,4 @@
 - 2026-08-09 09:48 - style: clean up trailing whitespace
 - 2026-08-09 10:38 - refactor: reduce duplicated logic
 - 2026-08-10 08:57 - test: verify boundary conditions
+- 2026-08-10 09:17 - refactor: unify error handling paths
