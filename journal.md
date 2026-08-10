@@ -23,3 +23,4 @@
 - 2026-08-10 08:57 - test: verify boundary conditions
 - 2026-08-10 09:17 - refactor: unify error handling paths
 - 2026-08-10 09:52 - test: ensure idempotent runs
+- 2026-08-10 10:44 - docs: clarify installation steps
