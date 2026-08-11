@@ -26,3 +26,4 @@
 - 2026-08-10 10:44 - docs: clarify installation steps
 - 2026-08-10 11:11 - security: rotate stored secrets
 - 2026-08-11 10:05 - notes: plan next sprint backlog
+- 2026-08-11 10:52 - wip: rough draft of algorithm
