@@ -40,3 +40,4 @@
 - 2026-08-13 08:10 - chore: remove stale TODOs
 - 2026-08-13 09:05 - chore: apply formatter pass
 - 2026-08-13 10:16 - notes: capture debugging checklist
+- 2026-08-13 11:02 - notes: list gotchas encountered
