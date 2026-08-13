@@ -37,3 +37,4 @@
 - 2026-08-13 05:38 - wip: save intermediate progress
 - 2026-08-13 06:21 - style: shorten verbose conditionals
 - 2026-08-13 07:34 - refactor: split large function into parts
+- 2026-08-13 08:10 - chore: remove stale TODOs
