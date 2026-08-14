@@ -41,3 +41,4 @@
 - 2026-08-13 09:05 - chore: apply formatter pass
 - 2026-08-13 10:16 - notes: capture debugging checklist
 - 2026-08-13 11:02 - notes: list gotchas encountered
+- 2026-08-14 10:59 - refactor: simplify branching logic
