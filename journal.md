@@ -44,3 +44,4 @@
 - 2026-08-14 10:59 - refactor: simplify branching logic
 - 2026-08-15 05:01 - fix: patch race condition in cache
 - 2026-08-15 05:51 - notes: brainstorm feature ideas
+- 2026-08-15 06:22 - feat: add batch processing mode
