@@ -49,3 +49,4 @@
 - 2026-08-15 08:07 - chore: consolidate config files
 - 2026-08-15 08:45 - style: group related statements
 - 2026-08-15 09:24 - chore: add .gitignore entries
+- 2026-08-15 09:51 - refactor: replace callbacks with promises
