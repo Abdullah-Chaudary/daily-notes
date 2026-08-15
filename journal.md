@@ -46,3 +46,4 @@
 - 2026-08-15 05:51 - notes: brainstorm feature ideas
 - 2026-08-15 06:22 - feat: add batch processing mode
 - 2026-08-15 07:20 - refactor: split large function into parts
+- 2026-08-15 08:07 - chore: consolidate config files
