@@ -50,3 +50,4 @@
 - 2026-08-15 08:45 - style: group related statements
 - 2026-08-15 09:24 - chore: add .gitignore entries
 - 2026-08-15 09:51 - refactor: replace callbacks with promises
+- 2026-08-15 10:26 - docs: expand comment coverage
