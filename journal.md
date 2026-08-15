@@ -43,3 +43,4 @@
 - 2026-08-13 11:02 - notes: list gotchas encountered
 - 2026-08-14 10:59 - refactor: simplify branching logic
 - 2026-08-15 05:01 - fix: patch race condition in cache
+- 2026-08-15 05:51 - notes: brainstorm feature ideas
