@@ -60,3 +60,4 @@
 - 2026-08-17 08:01 - wip: sync local branch state
 - 2026-08-17 09:09 - refactor: tidy up module boundaries
 - 2026-08-17 09:52 - refactor: use config factory pattern
+- 2026-08-17 10:34 - refactor: reorder functions logically
