@@ -55,3 +55,4 @@
 - 2026-08-17 04:01 - docs: add usage examples
 - 2026-08-17 04:41 - fix: restore missing import
 - 2026-08-17 05:29 - wip: checkpoint current work
+- 2026-08-17 06:04 - perf: cache repeated lookups
