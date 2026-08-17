@@ -52,3 +52,4 @@
 - 2026-08-15 09:51 - refactor: replace callbacks with promises
 - 2026-08-15 10:26 - docs: expand comment coverage
 - 2026-08-16 09:41 - chore: trim oversized diffs
+- 2026-08-17 04:01 - docs: add usage examples
