@@ -59,3 +59,4 @@
 - 2026-08-17 06:55 - docs: update contribution guidelines
 - 2026-08-17 08:01 - wip: sync local branch state
 - 2026-08-17 09:09 - refactor: tidy up module boundaries
+- 2026-08-17 09:52 - refactor: use config factory pattern
