@@ -56,3 +56,4 @@
 - 2026-08-17 04:41 - fix: restore missing import
 - 2026-08-17 05:29 - wip: checkpoint current work
 - 2026-08-17 06:04 - perf: cache repeated lookups
+- 2026-08-17 06:55 - docs: update contribution guidelines
