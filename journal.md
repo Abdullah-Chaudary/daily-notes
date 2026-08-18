@@ -66,3 +66,4 @@
 - 2026-08-18 07:47 - refactor: unify error handling paths
 - 2026-08-18 08:15 - feat: wire up notification hook
 - 2026-08-18 09:00 - fix: restore missing import
+- 2026-08-18 09:45 - feat: build search filter builder
