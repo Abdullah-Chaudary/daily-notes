@@ -61,3 +61,4 @@
 - 2026-08-17 09:09 - refactor: tidy up module boundaries
 - 2026-08-17 09:52 - refactor: use config factory pattern
 - 2026-08-17 10:34 - refactor: reorder functions logically
+- 2026-08-18 05:57 - fix: validate date range before parse
