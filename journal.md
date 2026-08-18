@@ -64,3 +64,4 @@
 - 2026-08-18 05:57 - fix: validate date range before parse
 - 2026-08-18 07:00 - wip: park work in progress
 - 2026-08-18 07:47 - refactor: unify error handling paths
+- 2026-08-18 08:15 - feat: wire up notification hook
