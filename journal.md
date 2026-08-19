@@ -68,3 +68,4 @@
 - 2026-08-18 09:00 - fix: restore missing import
 - 2026-08-18 09:45 - feat: build search filter builder
 - 2026-08-18 10:31 - fix: adjust sorting for locale
+- 2026-08-19 03:29 - refactor: replace callbacks with promises
