@@ -70,3 +70,4 @@
 - 2026-08-18 10:31 - fix: adjust sorting for locale
 - 2026-08-19 03:29 - refactor: replace callbacks with promises
 - 2026-08-19 04:00 - fix: correct regex for trailing spaces
+- 2026-08-19 04:49 - style: normalize string quoting
