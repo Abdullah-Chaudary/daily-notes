@@ -72,3 +72,4 @@
 - 2026-08-19 04:00 - fix: correct regex for trailing spaces
 - 2026-08-19 04:49 - style: normalize string quoting
 - 2026-08-19 05:31 - docs: reorganize topic index
+- 2026-08-19 06:18 - fix: detect interrupted writes
