@@ -74,3 +74,4 @@
 - 2026-08-19 05:31 - docs: reorganize topic index
 - 2026-08-19 06:18 - fix: detect interrupted writes
 - 2026-08-19 07:34 - wip: rough draft of algorithm
+- 2026-08-19 08:48 - security: tighten file permissions
