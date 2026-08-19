@@ -75,3 +75,4 @@
 - 2026-08-19 06:18 - fix: detect interrupted writes
 - 2026-08-19 07:34 - wip: rough draft of algorithm
 - 2026-08-19 08:48 - security: tighten file permissions
+- 2026-08-19 10:00 - test: mock external service calls
