@@ -79,3 +79,4 @@
 - 2026-08-19 10:32 - refactor: drop dead code
 - 2026-08-20 06:39 - wip: partial implementation of filter
 - 2026-08-20 07:15 - notes: review yesterday's progress
+- 2026-08-20 07:53 - test: add integration test for sync
