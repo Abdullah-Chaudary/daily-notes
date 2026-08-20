@@ -82,3 +82,4 @@
 - 2026-08-20 07:53 - test: add integration test for sync
 - 2026-08-20 08:56 - chore: refresh lockfile
 - 2026-08-20 09:16 - style: clean up trailing whitespace
+- 2026-08-20 10:34 - fix: patch race condition in cache
