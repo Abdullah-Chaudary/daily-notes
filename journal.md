@@ -77,3 +77,4 @@
 - 2026-08-19 08:48 - security: tighten file permissions
 - 2026-08-19 10:00 - test: mock external service calls
 - 2026-08-19 10:32 - refactor: drop dead code
+- 2026-08-20 06:39 - wip: partial implementation of filter
