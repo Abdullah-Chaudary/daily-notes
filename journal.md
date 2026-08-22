@@ -86,3 +86,4 @@
 - 2026-08-21 09:28 - chore: update local dev scripts
 - 2026-08-21 10:34 - docs: expand FAQ coverage
 - 2026-08-22 07:55 - style: consistent error message case
+- 2026-08-22 08:16 - docs: reorganize topic index
