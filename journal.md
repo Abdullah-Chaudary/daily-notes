@@ -87,3 +87,4 @@
 - 2026-08-21 10:34 - docs: expand FAQ coverage
 - 2026-08-22 07:55 - style: consistent error message case
 - 2026-08-22 08:16 - docs: reorganize topic index
+- 2026-08-22 09:20 - feat: add pagination support
