@@ -96,3 +96,4 @@
 - 2026-08-23 06:50 - chore: consolidate config files
 - 2026-08-23 08:00 - perf: lazy-load heavy modules
 - 2026-08-23 09:09 - test: confirm sorting is stable
+- 2026-08-23 10:27 - test: assert error messages
