@@ -95,3 +95,4 @@
 - 2026-08-23 05:41 - test: cover empty-input scenarios
 - 2026-08-23 06:50 - chore: consolidate config files
 - 2026-08-23 08:00 - perf: lazy-load heavy modules
+- 2026-08-23 09:09 - test: confirm sorting is stable
