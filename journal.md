@@ -93,3 +93,4 @@
 - 2026-08-23 03:46 - docs: record debugging session notes
 - 2026-08-23 04:59 - notes: log experiment results
 - 2026-08-23 05:41 - test: cover empty-input scenarios
+- 2026-08-23 06:50 - chore: consolidate config files
