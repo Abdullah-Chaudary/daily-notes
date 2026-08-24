@@ -99,3 +99,4 @@
 - 2026-08-23 10:27 - test: assert error messages
 - 2026-08-24 08:47 - wip: mid-way through migration
 - 2026-08-24 09:55 - style: unify list punctuation
+- 2026-08-24 10:19 - style: convert tabs to spaces
