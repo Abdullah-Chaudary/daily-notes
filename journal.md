@@ -110,3 +110,4 @@
 - 2026-08-25 08:32 - feat: add first-pass validation
 - 2026-08-25 09:05 - style: standardize spacing
 - 2026-08-25 09:44 - wip: park work in progress
+- 2026-08-25 10:36 - feat: wire up notification hook
