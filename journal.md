@@ -108,3 +108,4 @@
 - 2026-08-25 06:52 - wip: save intermediate progress
 - 2026-08-25 07:21 - build: add reproducible build script
 - 2026-08-25 08:32 - feat: add first-pass validation
+- 2026-08-25 09:05 - style: standardize spacing
