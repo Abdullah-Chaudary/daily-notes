@@ -103,3 +103,4 @@
 - 2026-08-24 10:39 - chore: apply formatter pass
 - 2026-08-25 03:25 - fix: handle timezone edge case
 - 2026-08-25 04:35 - test: cover rollback path
+- 2026-08-25 05:54 - feat: introduce event emitter
