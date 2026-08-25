@@ -101,3 +101,4 @@
 - 2026-08-24 09:55 - style: unify list punctuation
 - 2026-08-24 10:19 - style: convert tabs to spaces
 - 2026-08-24 10:39 - chore: apply formatter pass
+- 2026-08-25 03:25 - fix: handle timezone edge case
