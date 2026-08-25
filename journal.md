@@ -106,3 +106,4 @@
 - 2026-08-25 05:54 - feat: introduce event emitter
 - 2026-08-25 06:19 - chore: bump dependency versions
 - 2026-08-25 06:52 - wip: save intermediate progress
+- 2026-08-25 07:21 - build: add reproducible build script
