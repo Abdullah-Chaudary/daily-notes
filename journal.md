@@ -115,3 +115,4 @@
 - 2026-08-27 11:09 - docs: update contribution guidelines
 - 2026-08-27 11:57 - feat: scaffold new module skeleton
 - 2026-08-27 13:12 - chore: trim oversized diffs
+- 2026-08-27 14:29 - feat: wire up notification hook
