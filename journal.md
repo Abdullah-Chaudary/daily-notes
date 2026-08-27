@@ -117,3 +117,4 @@
 - 2026-08-27 13:12 - chore: trim oversized diffs
 - 2026-08-27 14:29 - feat: wire up notification hook
 - 2026-08-27 15:39 - test: add regression test for #123
+- 2026-08-27 16:40 - refactor: unify error handling paths
