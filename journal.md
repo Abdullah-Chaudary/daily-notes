@@ -119,3 +119,4 @@
 - 2026-08-27 15:39 - test: add regression test for #123
 - 2026-08-27 16:40 - refactor: unify error handling paths
 - 2026-08-27 17:12 - refactor: centralize timestamp logic
+- 2026-08-27 17:59 - feat: add interactive prompt flow
