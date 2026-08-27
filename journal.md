@@ -112,3 +112,4 @@
 - 2026-08-25 09:44 - wip: park work in progress
 - 2026-08-25 10:36 - feat: wire up notification hook
 - 2026-08-27 10:31 - chore: sync package metadata
+- 2026-08-27 11:09 - docs: update contribution guidelines
