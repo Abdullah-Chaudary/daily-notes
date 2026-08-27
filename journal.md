@@ -120,3 +120,4 @@
 - 2026-08-27 16:40 - refactor: unify error handling paths
 - 2026-08-27 17:12 - refactor: centralize timestamp logic
 - 2026-08-27 17:59 - feat: add interactive prompt flow
+- 2026-08-27 18:55 - wip: partial implementation of filter
