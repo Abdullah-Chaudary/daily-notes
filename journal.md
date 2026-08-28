@@ -122,3 +122,4 @@
 - 2026-08-27 17:59 - feat: add interactive prompt flow
 - 2026-08-27 18:55 - wip: partial implementation of filter
 - 2026-08-27 19:40 - notes: sketch system design diagram
+- 2026-08-28 09:43 - fix: guard against division by zero
