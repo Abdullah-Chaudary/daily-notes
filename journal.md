@@ -124,3 +124,4 @@
 - 2026-08-27 19:40 - notes: sketch system design diagram
 - 2026-08-28 09:43 - fix: guard against division by zero
 - 2026-08-28 10:10 - feat: support multiple output formats
+- 2026-08-28 11:13 - feat: add first-pass validation
