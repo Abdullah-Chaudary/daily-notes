@@ -127,3 +127,4 @@
 - 2026-08-28 11:13 - feat: add first-pass validation
 - 2026-08-28 11:45 - fix: close resource leak on error
 - 2026-08-28 12:42 - security: rotate stored secrets
+- 2026-08-30 07:24 - refactor: extract shared helper
