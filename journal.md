@@ -131,3 +131,4 @@
 - 2026-08-30 08:24 - test: validate output format
 - 2026-08-30 09:12 - wip: sync local branch state
 - 2026-08-30 10:19 - chore: bump base image tag
+- 2026-08-30 11:07 - fix: correct off-by-one in index loop
