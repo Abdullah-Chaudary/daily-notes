@@ -130,3 +130,4 @@
 - 2026-08-30 07:24 - refactor: extract shared helper
 - 2026-08-30 08:24 - test: validate output format
 - 2026-08-30 09:12 - wip: sync local branch state
+- 2026-08-30 10:19 - chore: bump base image tag
