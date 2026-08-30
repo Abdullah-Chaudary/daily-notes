@@ -134,3 +134,4 @@
 - 2026-08-30 11:07 - fix: correct off-by-one in index loop
 - 2026-08-30 11:43 - chore: update license header
 - 2026-08-30 12:45 - chore: update linter rules
+- 2026-08-30 13:18 - docs: add troubleshooting section
