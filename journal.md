@@ -139,3 +139,4 @@
 - 2026-08-30 14:43 - wip: mid-way through migration
 - 2026-08-31 09:16 - refactor: use config factory pattern
 - 2026-08-31 09:54 - docs: update project README
+- 2026-08-31 10:45 - refactor: replace callbacks with promises
