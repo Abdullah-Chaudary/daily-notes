@@ -137,3 +137,4 @@
 - 2026-08-30 13:18 - docs: add troubleshooting section
 - 2026-08-30 14:05 - wip: stage exploratory change
 - 2026-08-30 14:43 - wip: mid-way through migration
+- 2026-08-31 09:16 - refactor: use config factory pattern
