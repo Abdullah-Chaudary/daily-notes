@@ -142,3 +142,4 @@
 - 2026-08-31 10:45 - refactor: replace callbacks with promises
 - 2026-08-31 11:36 - security: tighten file permissions
 - 2026-08-31 12:18 - feat: wire up notification hook
+- 2026-08-31 12:47 - feat: support multiple output formats
