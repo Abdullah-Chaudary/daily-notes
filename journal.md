@@ -146,3 +146,4 @@
 - 2026-08-31 13:19 - chore: update local dev scripts
 - 2026-09-01 06:19 - notes: summarize conference talk
 - 2026-09-01 06:46 - refactor: clean up test fixtures
+- 2026-09-01 07:34 - test: add integration test for sync
