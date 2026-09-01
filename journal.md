@@ -152,3 +152,4 @@
 - 2026-09-01 10:54 - test: assert error messages
 - 2026-09-01 12:04 - test: extend coverage for config
 - 2026-09-01 13:03 - refactor: drop dead code
+- 2026-09-01 14:02 - refactor: rename module for clarity
