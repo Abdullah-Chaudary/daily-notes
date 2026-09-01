@@ -148,3 +148,4 @@
 - 2026-09-01 06:46 - refactor: clean up test fixtures
 - 2026-09-01 07:34 - test: add integration test for sync
 - 2026-09-01 08:45 - refactor: split large function into parts
+- 2026-09-01 09:59 - chore: bump base image tag
