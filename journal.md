@@ -150,3 +150,4 @@
 - 2026-09-01 08:45 - refactor: split large function into parts
 - 2026-09-01 09:59 - chore: bump base image tag
 - 2026-09-01 10:54 - test: assert error messages
+- 2026-09-01 12:04 - test: extend coverage for config
