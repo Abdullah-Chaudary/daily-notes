@@ -144,3 +144,4 @@
 - 2026-08-31 12:18 - feat: wire up notification hook
 - 2026-08-31 12:47 - feat: support multiple output formats
 - 2026-08-31 13:19 - chore: update local dev scripts
+- 2026-09-01 06:19 - notes: summarize conference talk
