@@ -158,3 +158,4 @@
 - 2026-09-02 09:27 - chore: initialize repo structure
 - 2026-09-02 10:21 - style: align table columns
 - 2026-09-02 10:45 - chore: update linter rules
+- 2026-09-02 11:09 - refactor: extract shared helper
