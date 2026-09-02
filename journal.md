@@ -157,3 +157,4 @@
 - 2026-09-02 08:48 - refactor: replace callbacks with promises
 - 2026-09-02 09:27 - chore: initialize repo structure
 - 2026-09-02 10:21 - style: align table columns
+- 2026-09-02 10:45 - chore: update linter rules
