@@ -160,3 +160,4 @@
 - 2026-09-02 10:45 - chore: update linter rules
 - 2026-09-02 11:09 - refactor: extract shared helper
 - 2026-09-03 11:34 - refactor: simplify nested conditionals
+- 2026-09-03 12:02 - chore: upgrade dev toolchain
