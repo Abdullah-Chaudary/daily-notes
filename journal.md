@@ -164,3 +164,4 @@
 - 2026-09-04 07:57 - feat: add settings persistence
 - 2026-09-04 09:14 - chore: pin reproducible builds
 - 2026-09-04 10:14 - notes: summarize conference talk
+- 2026-09-04 10:45 - notes: log experiment results
