@@ -162,3 +162,4 @@
 - 2026-09-03 11:34 - refactor: simplify nested conditionals
 - 2026-09-03 12:02 - chore: upgrade dev toolchain
 - 2026-09-04 07:57 - feat: add settings persistence
+- 2026-09-04 09:14 - chore: pin reproducible builds
