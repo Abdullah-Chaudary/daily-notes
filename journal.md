@@ -165,3 +165,4 @@
 - 2026-09-04 09:14 - chore: pin reproducible builds
 - 2026-09-04 10:14 - notes: summarize conference talk
 - 2026-09-04 10:45 - notes: log experiment results
+- 2026-09-04 11:41 - chore: initialize repo structure
