@@ -169,3 +169,4 @@
 - 2026-09-04 12:37 - refactor: move constants to config
 - 2026-09-04 13:24 - chore: bump dependency versions
 - 2026-09-04 14:05 - feat: add pagination support
+- 2026-09-05 09:37 - style: unify trailing commas
