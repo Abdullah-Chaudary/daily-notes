@@ -170,3 +170,4 @@
 - 2026-09-04 13:24 - chore: bump dependency versions
 - 2026-09-04 14:05 - feat: add pagination support
 - 2026-09-05 09:37 - style: unify trailing commas
+- 2026-09-05 10:35 - chore: prune unused deps
