@@ -178,3 +178,4 @@
 - 2026-09-07 09:24 - chore: update linter rules
 - 2026-09-07 10:31 - build: parallelize build steps
 - 2026-09-07 10:55 - feat: wire up notification hook
+- 2026-09-07 11:45 - style: convert tabs to spaces
