@@ -175,3 +175,4 @@
 - 2026-09-05 12:06 - wip: stage exploratory change
 - 2026-09-05 12:28 - refactor: clean up test fixtures
 - 2026-09-05 13:18 - fix: restore missing import
+- 2026-09-07 09:24 - chore: update linter rules
