@@ -183,3 +183,4 @@
 - 2026-09-07 13:44 - docs: clean up outdated examples
 - 2026-09-07 14:22 - test: check concurrent writes
 - 2026-09-07 15:36 - docs: add usage examples
+- 2026-09-08 09:36 - chore: tidy workspace settings
