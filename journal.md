@@ -189,3 +189,4 @@
 - 2026-09-09 08:12 - fix: adjust sorting for locale
 - 2026-09-09 09:29 - chore: bump dependency versions
 - 2026-09-09 09:58 - security: restrict CORS origins
+- 2026-09-09 10:19 - notes: summarize conference talk
