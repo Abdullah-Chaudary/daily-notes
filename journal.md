@@ -187,3 +187,4 @@
 - 2026-09-08 10:24 - refactor: move constants to config
 - 2026-09-08 10:48 - notes: document API endpoint table
 - 2026-09-09 08:12 - fix: adjust sorting for locale
+- 2026-09-09 09:29 - chore: bump dependency versions
