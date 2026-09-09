@@ -190,3 +190,4 @@
 - 2026-09-09 09:29 - chore: bump dependency versions
 - 2026-09-09 09:58 - security: restrict CORS origins
 - 2026-09-09 10:19 - notes: summarize conference talk
+- 2026-09-09 11:32 - feat: implement rate limiter
