@@ -188,3 +188,4 @@
 - 2026-09-08 10:48 - notes: document API endpoint table
 - 2026-09-09 08:12 - fix: adjust sorting for locale
 - 2026-09-09 09:29 - chore: bump dependency versions
+- 2026-09-09 09:58 - security: restrict CORS origins
