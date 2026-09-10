@@ -193,3 +193,4 @@
 - 2026-09-09 11:32 - feat: implement rate limiter
 - 2026-09-10 09:22 - chore: refresh CI cache key
 - 2026-09-10 10:28 - refactor: reduce duplicated logic
+- 2026-09-10 11:15 - fix: correct off-by-one in index loop
