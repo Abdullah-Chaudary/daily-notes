@@ -191,3 +191,4 @@
 - 2026-09-09 09:58 - security: restrict CORS origins
 - 2026-09-09 10:19 - notes: summarize conference talk
 - 2026-09-09 11:32 - feat: implement rate limiter
+- 2026-09-10 09:22 - chore: refresh CI cache key
