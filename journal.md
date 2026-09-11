@@ -201,3 +201,4 @@
 - 2026-09-11 11:07 - notes: sketch system design diagram
 - 2026-09-11 11:41 - style: normalize string quoting
 - 2026-09-11 12:33 - notes: capture debugging checklist
+- 2026-09-11 13:11 - chore: trim oversized diffs
