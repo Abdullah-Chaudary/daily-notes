@@ -198,3 +198,4 @@
 - 2026-09-11 07:48 - notes: draft interview cheat sheet
 - 2026-09-11 09:03 - wip: mid-way through migration
 - 2026-09-11 10:03 - perf: skip redundant checks
+- 2026-09-11 11:07 - notes: sketch system design diagram
