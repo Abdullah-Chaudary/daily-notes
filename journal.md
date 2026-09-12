@@ -210,3 +210,4 @@
 - 2026-09-12 09:00 - docs: expand architecture overview
 - 2026-09-12 10:04 - feat: support env-based config
 - 2026-09-12 11:19 - docs: clean up outdated examples
+- 2026-09-12 12:35 - docs: expand FAQ coverage
