@@ -207,3 +207,4 @@
 - 2026-09-12 06:28 - wip: park work in progress
 - 2026-09-12 07:31 - chore: archive old notes
 - 2026-09-12 08:24 - chore: update license header
+- 2026-09-12 09:00 - docs: expand architecture overview
