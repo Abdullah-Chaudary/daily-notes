@@ -203,3 +203,4 @@
 - 2026-09-11 12:33 - notes: capture debugging checklist
 - 2026-09-11 13:11 - chore: trim oversized diffs
 - 2026-09-11 14:08 - feat: support env-based config
+- 2026-09-12 05:43 - refactor: unify error handling paths
