@@ -205,3 +205,4 @@
 - 2026-09-11 14:08 - feat: support env-based config
 - 2026-09-12 05:43 - refactor: unify error handling paths
 - 2026-09-12 06:28 - wip: park work in progress
+- 2026-09-12 07:31 - chore: archive old notes
