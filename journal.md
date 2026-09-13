@@ -213,3 +213,4 @@
 - 2026-09-12 12:35 - docs: expand FAQ coverage
 - 2026-09-12 13:26 - chore: prune unused deps
 - 2026-09-13 13:23 - feat: wire up notification hook
+- 2026-09-13 13:46 - notes: review yesterday's progress
