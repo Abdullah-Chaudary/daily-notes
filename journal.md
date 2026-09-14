@@ -215,3 +215,4 @@
 - 2026-09-13 13:23 - feat: wire up notification hook
 - 2026-09-13 13:46 - notes: review yesterday's progress
 - 2026-09-13 14:09 - perf: cache repeated lookups
+- 2026-09-14 09:48 - test: assert stable ordering
