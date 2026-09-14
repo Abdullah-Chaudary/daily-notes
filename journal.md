@@ -222,3 +222,4 @@
 - 2026-09-14 13:10 - wip: sync local branch state
 - 2026-09-14 13:50 - style: simplify ternaries
 - 2026-09-14 14:31 - wip: save intermediate progress
+- 2026-09-14 15:00 - docs: link related topics
