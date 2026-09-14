@@ -218,3 +218,4 @@
 - 2026-09-14 09:48 - test: assert stable ordering
 - 2026-09-14 10:39 - notes: review yesterday's progress
 - 2026-09-14 11:24 - refactor: replace callbacks with promises
+- 2026-09-14 11:52 - fix: adjust sorting for locale
