@@ -229,3 +229,4 @@
 - 2026-09-15 09:41 - chore: add .gitignore entries
 - 2026-09-15 10:30 - fix: clamp values to valid bounds
 - 2026-09-15 10:57 - feat: wire up notification hook
+- 2026-09-15 11:40 - wip: snapshot before refactor
