@@ -224,3 +224,4 @@
 - 2026-09-14 14:31 - wip: save intermediate progress
 - 2026-09-14 15:00 - docs: link related topics
 - 2026-09-14 16:14 - fix: handle timezone edge case
+- 2026-09-15 07:18 - test: ensure idempotent runs
