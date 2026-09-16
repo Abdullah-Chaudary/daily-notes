@@ -236,3 +236,4 @@
 - 2026-09-16 11:31 - docs: rewrite getting-started guide
 - 2026-09-16 12:21 - perf: reduce payload size
 - 2026-09-16 12:55 - feat: add interactive prompt flow
+- 2026-09-16 14:13 - wip: save intermediate progress
