@@ -233,3 +233,4 @@
 - 2026-09-15 12:39 - chore: adopt new lint preset
 - 2026-09-15 13:48 - notes: brainstorm feature ideas
 - 2026-09-15 14:43 - test: parametrize date tests
+- 2026-09-16 11:31 - docs: rewrite getting-started guide
