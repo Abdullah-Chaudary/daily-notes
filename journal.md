@@ -235,3 +235,4 @@
 - 2026-09-15 14:43 - test: parametrize date tests
 - 2026-09-16 11:31 - docs: rewrite getting-started guide
 - 2026-09-16 12:21 - perf: reduce payload size
+- 2026-09-16 12:55 - feat: add interactive prompt flow
