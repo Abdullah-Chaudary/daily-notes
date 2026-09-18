@@ -239,3 +239,4 @@
 - 2026-09-16 14:13 - wip: save intermediate progress
 - 2026-09-16 14:42 - test: validate output format
 - 2026-09-17 13:23 - notes: outline weekend study plan
+- 2026-09-18 09:07 - fix: clamp values to valid bounds
