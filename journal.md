@@ -248,3 +248,4 @@
 - 2026-09-19 10:34 - docs: revise intro paragraph
 - 2026-09-19 11:41 - feat: add file watcher
 - 2026-09-19 12:32 - chore: refresh lockfile
+- 2026-09-19 13:07 - style: unify error casing
