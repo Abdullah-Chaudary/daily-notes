@@ -245,3 +245,4 @@
 - 2026-09-19 07:25 - feat: add interactive prompt flow
 - 2026-09-19 08:35 - chore: adopt new lint preset
 - 2026-09-19 09:32 - refactor: extract shared helper
+- 2026-09-19 10:34 - docs: revise intro paragraph
