@@ -241,3 +241,4 @@
 - 2026-09-17 13:23 - notes: outline weekend study plan
 - 2026-09-18 09:07 - fix: clamp values to valid bounds
 - 2026-09-18 09:41 - fix: correct timestamp formatting
+- 2026-09-19 06:49 - security: restrict CORS origins
