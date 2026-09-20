@@ -259,3 +259,4 @@
 - 2026-09-20 11:08 - chore: final cleanup pass
 - 2026-09-20 12:28 - fix: detect interrupted writes
 - 2026-09-20 13:13 - docs: clean up outdated examples
+- 2026-09-20 14:00 - perf: optimize hot loop
