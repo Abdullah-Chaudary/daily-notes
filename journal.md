@@ -250,3 +250,4 @@
 - 2026-09-19 12:32 - chore: refresh lockfile
 - 2026-09-19 13:07 - style: unify error casing
 - 2026-09-19 13:46 - refactor: replace callbacks with promises
+- 2026-09-20 07:01 - fix: fix broken anchor links
