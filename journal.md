@@ -253,3 +253,4 @@
 - 2026-09-20 07:01 - fix: fix broken anchor links
 - 2026-09-20 07:38 - docs: draft chapter on error handling
 - 2026-09-20 08:10 - wip: commit checkpoint before revert
+- 2026-09-20 08:47 - feat: support multiple output formats
