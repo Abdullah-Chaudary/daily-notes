@@ -258,3 +258,4 @@
 - 2026-09-20 10:18 - test: mock external service calls
 - 2026-09-20 11:08 - chore: final cleanup pass
 - 2026-09-20 12:28 - fix: detect interrupted writes
+- 2026-09-20 13:13 - docs: clean up outdated examples
