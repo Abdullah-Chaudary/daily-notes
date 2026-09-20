@@ -256,3 +256,4 @@
 - 2026-09-20 08:47 - feat: support multiple output formats
 - 2026-09-20 09:33 - fix: correct off-by-one in index loop
 - 2026-09-20 10:18 - test: mock external service calls
+- 2026-09-20 11:08 - chore: final cleanup pass
