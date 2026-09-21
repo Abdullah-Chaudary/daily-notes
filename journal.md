@@ -264,3 +264,4 @@
 - 2026-09-21 11:49 - fix: resolve null pointer on empty input
 - 2026-09-21 13:02 - docs: link related topics
 - 2026-09-21 13:25 - notes: sketch system design diagram
+- 2026-09-21 14:14 - fix: detect interrupted writes
