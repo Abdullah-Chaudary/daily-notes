@@ -261,3 +261,4 @@
 - 2026-09-20 13:13 - docs: clean up outdated examples
 - 2026-09-20 14:00 - perf: optimize hot loop
 - 2026-09-21 10:49 - refactor: tidy up module boundaries
+- 2026-09-21 11:49 - fix: resolve null pointer on empty input
