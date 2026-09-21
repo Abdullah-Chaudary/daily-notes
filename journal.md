@@ -263,3 +263,4 @@
 - 2026-09-21 10:49 - refactor: tidy up module boundaries
 - 2026-09-21 11:49 - fix: resolve null pointer on empty input
 - 2026-09-21 13:02 - docs: link related topics
+- 2026-09-21 13:25 - notes: sketch system design diagram
