@@ -267,3 +267,4 @@
 - 2026-09-21 14:14 - fix: detect interrupted writes
 - 2026-09-21 15:25 - chore: sync package metadata
 - 2026-09-21 16:19 - refactor: separate concerns in loader
+- 2026-09-22 11:24 - refactor: extract shared helper
