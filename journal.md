@@ -277,3 +277,4 @@
 - 2026-09-23 11:42 - chore: bump base image tag
 - 2026-09-23 12:03 - refactor: separate concerns in loader
 - 2026-09-23 12:39 - test: verify boundary conditions
+- 2026-09-23 13:16 - test: check concurrent writes
