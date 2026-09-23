@@ -275,3 +275,4 @@
 - 2026-09-23 10:01 - perf: reduce payload size
 - 2026-09-23 11:19 - fix: correct timestamp formatting
 - 2026-09-23 11:42 - chore: bump base image tag
+- 2026-09-23 12:03 - refactor: separate concerns in loader
