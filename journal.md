@@ -287,3 +287,4 @@
 - 2026-09-24 11:51 - test: extend coverage for config
 - 2026-09-24 12:45 - notes: log experiment results
 - 2026-09-24 13:36 - chore: update license header
+- 2026-09-24 14:43 - fix: correct timestamp formatting
