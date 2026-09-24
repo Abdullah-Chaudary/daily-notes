@@ -282,3 +282,4 @@
 - 2026-09-24 07:47 - style: standardize spacing
 - 2026-09-24 08:34 - docs: add daily learning notes
 - 2026-09-24 09:33 - docs: improve glossary section
+- 2026-09-24 10:15 - feat: add graceful shutdown
