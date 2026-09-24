@@ -284,3 +284,4 @@
 - 2026-09-24 09:33 - docs: improve glossary section
 - 2026-09-24 10:15 - feat: add graceful shutdown
 - 2026-09-24 11:03 - docs: rewrite getting-started guide
+- 2026-09-24 11:51 - test: extend coverage for config
