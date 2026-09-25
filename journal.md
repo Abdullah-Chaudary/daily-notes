@@ -292,3 +292,4 @@
 - 2026-09-25 09:19 - test: assert error messages
 - 2026-09-25 10:14 - style: align table columns
 - 2026-09-25 10:47 - test: add unit tests for parser
+- 2026-09-25 11:40 - chore: refresh CI cache key
