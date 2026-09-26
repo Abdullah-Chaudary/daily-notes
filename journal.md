@@ -297,3 +297,4 @@
 - 2026-09-26 10:41 - chore: final cleanup pass
 - 2026-09-26 11:46 - wip: checkpoint current work
 - 2026-09-26 12:54 - test: assert stable ordering
+- 2026-09-26 13:18 - notes: outline weekend study plan
