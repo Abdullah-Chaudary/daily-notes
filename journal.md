@@ -295,3 +295,4 @@
 - 2026-09-25 11:40 - chore: refresh CI cache key
 - 2026-09-26 09:48 - chore: update license header
 - 2026-09-26 10:41 - chore: final cleanup pass
+- 2026-09-26 11:46 - wip: checkpoint current work
