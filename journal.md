@@ -303,3 +303,4 @@
 - 2026-09-27 14:04 - test: reproduce reported bug
 - 2026-09-27 14:51 - fix: restore missing import
 - 2026-09-28 09:27 - notes: summarize conference talk
+- 2026-09-28 10:27 - fix: escape special chars in output
