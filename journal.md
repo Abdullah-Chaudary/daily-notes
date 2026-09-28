@@ -311,3 +311,4 @@
 - 2026-09-28 15:10 - test: cover empty-input scenarios
 - 2026-09-28 16:26 - style: consistent error message case
 - 2026-09-28 16:54 - notes: list gotchas encountered
+- 2026-09-28 18:00 - refactor: unify error handling paths
