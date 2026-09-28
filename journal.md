@@ -306,3 +306,4 @@
 - 2026-09-28 10:27 - fix: escape special chars in output
 - 2026-09-28 11:35 - feat: add config validation helper
 - 2026-09-28 12:55 - docs: expand FAQ coverage
+- 2026-09-28 13:17 - wip: commit checkpoint before revert
