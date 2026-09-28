@@ -309,3 +309,4 @@
 - 2026-09-28 13:17 - wip: commit checkpoint before revert
 - 2026-09-28 14:01 - wip: save intermediate progress
 - 2026-09-28 15:10 - test: cover empty-input scenarios
+- 2026-09-28 16:26 - style: consistent error message case
