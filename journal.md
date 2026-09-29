@@ -315,3 +315,4 @@
 - 2026-09-29 09:20 - chore: prune unused deps
 - 2026-09-29 09:54 - docs: reorganize topic index
 - 2026-09-29 10:48 - fix: handle missing keys gracefully
+- 2026-09-29 11:52 - test: confirm sorting is stable
