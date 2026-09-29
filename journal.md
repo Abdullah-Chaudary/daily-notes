@@ -317,3 +317,4 @@
 - 2026-09-29 10:48 - fix: handle missing keys gracefully
 - 2026-09-29 11:52 - test: confirm sorting is stable
 - 2026-09-29 12:35 - refactor: extract shared helper
+- 2026-09-29 13:11 - security: sanitize user input
