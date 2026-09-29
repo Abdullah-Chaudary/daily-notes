@@ -314,3 +314,4 @@
 - 2026-09-28 18:00 - refactor: unify error handling paths
 - 2026-09-29 09:20 - chore: prune unused deps
 - 2026-09-29 09:54 - docs: reorganize topic index
+- 2026-09-29 10:48 - fix: handle missing keys gracefully
