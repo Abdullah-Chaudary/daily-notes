@@ -319,3 +319,4 @@
 - 2026-09-29 12:35 - refactor: extract shared helper
 - 2026-09-29 13:11 - security: sanitize user input
 - 2026-09-29 14:01 - chore: trim oversized diffs
+- 2026-09-29 15:04 - chore: pin reproducible builds
