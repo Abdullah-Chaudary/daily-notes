@@ -313,3 +313,4 @@
 - 2026-09-28 16:54 - notes: list gotchas encountered
 - 2026-09-28 18:00 - refactor: unify error handling paths
 - 2026-09-29 09:20 - chore: prune unused deps
+- 2026-09-29 09:54 - docs: reorganize topic index
