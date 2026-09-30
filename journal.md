@@ -323,3 +323,4 @@
 - 2026-09-29 16:23 - feat: build search filter builder
 - 2026-09-30 13:09 - build: fix failing stage
 - 2026-09-30 13:33 - test: snapshot serializer output
+- 2026-09-30 13:58 - chore: update editorconfig
