@@ -322,3 +322,4 @@
 - 2026-09-29 15:04 - chore: pin reproducible builds
 - 2026-09-29 16:23 - feat: build search filter builder
 - 2026-09-30 13:09 - build: fix failing stage
+- 2026-09-30 13:33 - test: snapshot serializer output
