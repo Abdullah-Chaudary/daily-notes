@@ -321,3 +321,4 @@
 - 2026-09-29 14:01 - chore: trim oversized diffs
 - 2026-09-29 15:04 - chore: pin reproducible builds
 - 2026-09-29 16:23 - feat: build search filter builder
+- 2026-09-30 13:09 - build: fix failing stage
