@@ -333,3 +333,4 @@
 - 2026-10-01 14:17 - docs: revise intro paragraph
 - 2026-10-01 15:01 - test: extend coverage for config
 - 2026-10-01 15:31 - docs: polish changelog entries
+- 2026-10-01 16:00 - refactor: drop dead code
