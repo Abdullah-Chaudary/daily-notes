@@ -329,3 +329,4 @@
 - 2026-09-30 16:18 - test: ensure idempotent runs
 - 2026-10-01 12:10 - docs: summarize weekly review
 - 2026-10-01 12:52 - test: mock external service calls
+- 2026-10-01 13:53 - refactor: simplify branching logic
