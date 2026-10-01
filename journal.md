@@ -332,3 +332,4 @@
 - 2026-10-01 13:53 - refactor: simplify branching logic
 - 2026-10-01 14:17 - docs: revise intro paragraph
 - 2026-10-01 15:01 - test: extend coverage for config
+- 2026-10-01 15:31 - docs: polish changelog entries
