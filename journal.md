@@ -327,3 +327,4 @@
 - 2026-09-30 14:47 - refactor: split large function into parts
 - 2026-09-30 15:56 - build: add reproducible build script
 - 2026-09-30 16:18 - test: ensure idempotent runs
+- 2026-10-01 12:10 - docs: summarize weekly review
