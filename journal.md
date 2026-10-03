@@ -339,3 +339,4 @@
 - 2026-10-02 11:15 - refactor: drop dead code
 - 2026-10-02 12:05 - chore: apply formatter pass
 - 2026-10-03 12:46 - docs: add usage examples
+- 2026-10-03 13:15 - chore: upgrade dev toolchain
