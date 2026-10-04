@@ -345,3 +345,4 @@
 - 2026-10-04 11:21 - style: adjust naming to snake_case
 - 2026-10-04 12:12 - chore: initialize repo structure
 - 2026-10-04 13:15 - feat: build search filter builder
+- 2026-10-04 14:22 - chore: bump dependency versions
