@@ -341,3 +341,4 @@
 - 2026-10-03 12:46 - docs: add usage examples
 - 2026-10-03 13:15 - chore: upgrade dev toolchain
 - 2026-10-03 13:40 - test: assert no side effects
+- 2026-10-04 10:32 - notes: brainstorm feature ideas
