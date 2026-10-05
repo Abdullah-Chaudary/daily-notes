@@ -349,3 +349,4 @@
 - 2026-10-05 08:30 - style: group related statements
 - 2026-10-05 09:38 - test: verify boundary conditions
 - 2026-10-05 10:28 - wip: rough draft of algorithm
+- 2026-10-05 11:38 - refactor: replace callbacks with promises
