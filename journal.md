@@ -352,3 +352,4 @@
 - 2026-10-05 11:38 - refactor: replace callbacks with promises
 - 2026-10-06 08:24 - chore: refresh lockfile
 - 2026-10-06 09:13 - feat: introduce caching layer
+- 2026-10-06 10:02 - feat: implement incremental backups
