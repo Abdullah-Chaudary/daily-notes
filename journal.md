@@ -357,3 +357,4 @@
 - 2026-10-06 11:27 - style: wrap long signatures
 - 2026-10-06 12:13 - wip: sync local branch state
 - 2026-10-06 13:24 - docs: record debugging session notes
+- 2026-10-06 14:38 - test: mock external service calls
