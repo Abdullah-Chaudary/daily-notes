@@ -368,3 +368,4 @@
 - 2026-10-07 13:39 - docs: draft chapter on error handling
 - 2026-10-07 14:41 - build: fix failing stage
 - 2026-10-07 15:36 - test: validate output format
+- 2026-10-07 16:21 - security: rotate stored secrets
