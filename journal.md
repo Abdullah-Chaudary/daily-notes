@@ -369,3 +369,4 @@
 - 2026-10-07 14:41 - build: fix failing stage
 - 2026-10-07 15:36 - test: validate output format
 - 2026-10-07 16:21 - security: rotate stored secrets
+- 2026-10-07 17:20 - fix: validate date range before parse
