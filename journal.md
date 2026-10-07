@@ -366,3 +366,4 @@
 - 2026-10-07 11:56 - chore: initialize repo structure
 - 2026-10-07 13:16 - chore: prune unused deps
 - 2026-10-07 13:39 - docs: draft chapter on error handling
+- 2026-10-07 14:41 - build: fix failing stage
