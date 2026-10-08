@@ -374,3 +374,4 @@
 - 2026-10-08 13:41 - refactor: simplify nested conditionals
 - 2026-10-08 14:44 - chore: tidy workspace settings
 - 2026-10-08 15:23 - security: restrict CORS origins
+- 2026-10-08 16:07 - wip: mid-way through migration
