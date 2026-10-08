@@ -372,3 +372,4 @@
 - 2026-10-07 17:20 - fix: validate date range before parse
 - 2026-10-08 12:33 - style: group related statements
 - 2026-10-08 13:41 - refactor: simplify nested conditionals
+- 2026-10-08 14:44 - chore: tidy workspace settings
