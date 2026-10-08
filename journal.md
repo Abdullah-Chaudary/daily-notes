@@ -373,3 +373,4 @@
 - 2026-10-08 12:33 - style: group related statements
 - 2026-10-08 13:41 - refactor: simplify nested conditionals
 - 2026-10-08 14:44 - chore: tidy workspace settings
+- 2026-10-08 15:23 - security: restrict CORS origins
