@@ -375,3 +375,4 @@
 - 2026-10-08 14:44 - chore: tidy workspace settings
 - 2026-10-08 15:23 - security: restrict CORS origins
 - 2026-10-08 16:07 - wip: mid-way through migration
+- 2026-10-08 16:50 - feat: introduce caching layer
