@@ -379,3 +379,4 @@
 - 2026-10-09 09:19 - chore: pin reproducible builds
 - 2026-10-09 10:01 - chore: upgrade dev toolchain
 - 2026-10-09 10:44 - refactor: extract validation into module
+- 2026-10-09 11:56 - docs: add usage examples
