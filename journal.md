@@ -378,3 +378,4 @@
 - 2026-10-08 16:50 - feat: introduce caching layer
 - 2026-10-09 09:19 - chore: pin reproducible builds
 - 2026-10-09 10:01 - chore: upgrade dev toolchain
+- 2026-10-09 10:44 - refactor: extract validation into module
