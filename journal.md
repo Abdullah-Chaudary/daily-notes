@@ -383,3 +383,4 @@
 - 2026-10-09 12:20 - chore: apply formatter pass
 - 2026-10-10 09:30 - refactor: split large function into parts
 - 2026-10-10 10:06 - wip: park work in progress
+- 2026-10-10 11:19 - fix: skip empty files during scan
