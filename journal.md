@@ -381,3 +381,4 @@
 - 2026-10-09 10:44 - refactor: extract validation into module
 - 2026-10-09 11:56 - docs: add usage examples
 - 2026-10-09 12:20 - chore: apply formatter pass
+- 2026-10-10 09:30 - refactor: split large function into parts
