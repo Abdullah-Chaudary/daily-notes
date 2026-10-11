@@ -386,3 +386,4 @@
 - 2026-10-10 11:19 - fix: skip empty files during scan
 - 2026-10-10 12:06 - notes: sketch system design diagram
 - 2026-10-11 07:03 - fix: patch race condition in cache
+- 2026-10-11 08:13 - style: wrap long signatures
