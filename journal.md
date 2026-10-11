@@ -391,3 +391,4 @@
 - 2026-10-11 10:30 - chore: bump base image tag
 - 2026-10-11 11:37 - feat: implement rate limiter
 - 2026-10-11 12:52 - feat: expose new utility function
+- 2026-10-11 13:54 - refactor: centralize timestamp logic
