@@ -388,3 +388,4 @@
 - 2026-10-11 07:03 - fix: patch race condition in cache
 - 2026-10-11 08:13 - style: wrap long signatures
 - 2026-10-11 09:26 - wip: partial implementation of filter
+- 2026-10-11 10:30 - chore: bump base image tag
