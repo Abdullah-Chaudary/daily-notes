@@ -399,3 +399,4 @@
 - 2026-10-12 13:13 - notes: compare two library approaches
 - 2026-10-12 13:34 - notes: capture meeting takeaways
 - 2026-10-12 14:26 - refactor: clean up test fixtures
+- 2026-10-12 15:30 - style: normalize string quoting
