@@ -395,3 +395,4 @@
 - 2026-10-11 14:53 - perf: batch DB writes
 - 2026-10-11 16:11 - style: align chained calls
 - 2026-10-12 12:01 - style: wrap long signatures
+- 2026-10-12 12:45 - style: group related statements
