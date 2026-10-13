@@ -401,3 +401,4 @@
 - 2026-10-12 14:26 - refactor: clean up test fixtures
 - 2026-10-12 15:30 - style: normalize string quoting
 - 2026-10-13 13:40 - fix: restore missing import
+- 2026-10-13 14:23 - docs: update contribution guidelines
