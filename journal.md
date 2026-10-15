@@ -411,3 +411,4 @@
 - 2026-10-15 10:13 - refactor: streamline initialization flow
 - 2026-10-15 11:08 - refactor: drop dead code
 - 2026-10-15 11:48 - test: verify rollback on failure
+- 2026-10-15 12:23 - refactor: standardize log formatting
