@@ -419,3 +419,4 @@
 - 2026-10-16 08:25 - style: align table columns
 - 2026-10-16 08:59 - fix: validate date range before parse
 - 2026-10-16 09:45 - refactor: drop dead code
+- 2026-10-16 10:57 - feat: support env-based config
