@@ -421,3 +421,4 @@
 - 2026-10-16 09:45 - refactor: drop dead code
 - 2026-10-16 10:57 - feat: support env-based config
 - 2026-10-16 12:13 - perf: avoid full array scans
+- 2026-10-16 13:26 - chore: sync package metadata
