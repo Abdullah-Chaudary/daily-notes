@@ -424,3 +424,4 @@
 - 2026-10-16 13:26 - chore: sync package metadata
 - 2026-10-16 13:47 - docs: add daily learning notes
 - 2026-10-16 14:18 - perf: trim redundant work
+- 2026-10-16 14:39 - test: add regression test for #123
