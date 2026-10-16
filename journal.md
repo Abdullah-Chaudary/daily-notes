@@ -417,3 +417,4 @@
 - 2026-10-15 14:45 - wip: save intermediate progress
 - 2026-10-16 08:02 - refactor: simplify branching logic
 - 2026-10-16 08:25 - style: align table columns
+- 2026-10-16 08:59 - fix: validate date range before parse
