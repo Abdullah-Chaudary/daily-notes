@@ -428,3 +428,4 @@
 - 2026-10-17 05:52 - perf: preallocate buffers
 - 2026-10-17 06:52 - chore: bump dependency versions
 - 2026-10-17 07:45 - perf: trim redundant work
+- 2026-10-17 08:22 - docs: expand comment coverage
