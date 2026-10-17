@@ -434,3 +434,4 @@
 - 2026-10-17 10:04 - fix: prevent double submission
 - 2026-10-17 11:19 - docs: reorganize topic index
 - 2026-10-17 11:43 - docs: draft chapter on error handling
+- 2026-10-17 12:49 - refactor: simplify nested conditionals
