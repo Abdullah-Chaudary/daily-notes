@@ -425,3 +425,4 @@
 - 2026-10-16 13:47 - docs: add daily learning notes
 - 2026-10-16 14:18 - perf: trim redundant work
 - 2026-10-16 14:39 - test: add regression test for #123
+- 2026-10-17 05:52 - perf: preallocate buffers
