@@ -446,3 +446,4 @@
 - 2026-10-18 12:07 - docs: link related topics
 - 2026-10-18 12:38 - style: simplify ternaries
 - 2026-10-18 13:00 - fix: handle missing keys gracefully
+- 2026-10-18 13:50 - test: add property-based checks
