@@ -445,3 +445,4 @@
 - 2026-10-18 11:22 - fix: normalize inconsistent line endings
 - 2026-10-18 12:07 - docs: link related topics
 - 2026-10-18 12:38 - style: simplify ternaries
+- 2026-10-18 13:00 - fix: handle missing keys gracefully
