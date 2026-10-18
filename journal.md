@@ -443,3 +443,4 @@
 - 2026-10-18 09:32 - refactor: use config factory pattern
 - 2026-10-18 10:43 - notes: summarize conference talk
 - 2026-10-18 11:22 - fix: normalize inconsistent line endings
+- 2026-10-18 12:07 - docs: link related topics
