@@ -442,3 +442,4 @@
 - 2026-10-18 08:50 - build: parallelize build steps
 - 2026-10-18 09:32 - refactor: use config factory pattern
 - 2026-10-18 10:43 - notes: summarize conference talk
+- 2026-10-18 11:22 - fix: normalize inconsistent line endings
