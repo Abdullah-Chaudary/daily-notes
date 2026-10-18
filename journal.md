@@ -439,3 +439,4 @@
 - 2026-10-18 06:55 - chore: adopt new lint preset
 - 2026-10-18 07:50 - build: split config into layers
 - 2026-10-18 08:28 - test: cover rollback path
+- 2026-10-18 08:50 - build: parallelize build steps
