@@ -449,3 +449,4 @@
 - 2026-10-18 13:50 - test: add property-based checks
 - 2026-10-19 09:09 - wip: snapshot before refactor
 - 2026-10-19 09:54 - test: cover empty-input scenarios
+- 2026-10-19 10:22 - docs: update contribution guidelines
