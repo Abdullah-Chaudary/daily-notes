@@ -447,3 +447,4 @@
 - 2026-10-18 12:38 - style: simplify ternaries
 - 2026-10-18 13:00 - fix: handle missing keys gracefully
 - 2026-10-18 13:50 - test: add property-based checks
+- 2026-10-19 09:09 - wip: snapshot before refactor
