@@ -456,3 +456,4 @@
 - 2026-10-19 13:47 - feat: implement incremental backups
 - 2026-10-19 14:54 - feat: add pagination support
 - 2026-10-19 15:51 - perf: avoid full array scans
+- 2026-10-19 16:51 - docs: polish changelog entries
