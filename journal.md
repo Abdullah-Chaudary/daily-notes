@@ -464,3 +464,4 @@
 - 2026-10-20 09:09 - test: simulate slow network
 - 2026-10-20 09:31 - chore: update license header
 - 2026-10-20 10:37 - test: add unit tests for parser
+- 2026-10-20 11:30 - test: add regression test for #123
