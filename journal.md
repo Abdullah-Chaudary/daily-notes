@@ -467,3 +467,4 @@
 - 2026-10-20 11:30 - test: add regression test for #123
 - 2026-10-20 12:21 - perf: avoid full array scans
 - 2026-10-20 13:40 - style: fix heading hierarchy
+- 2026-10-20 14:49 - notes: brainstorm feature ideas
