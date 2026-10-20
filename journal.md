@@ -458,3 +458,4 @@
 - 2026-10-19 15:51 - perf: avoid full array scans
 - 2026-10-19 16:51 - docs: polish changelog entries
 - 2026-10-20 05:39 - test: assert no side effects
+- 2026-10-20 06:16 - wip: checkpoint current work
