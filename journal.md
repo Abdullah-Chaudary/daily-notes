@@ -462,3 +462,4 @@
 - 2026-10-20 07:20 - chore: refresh lockfile
 - 2026-10-20 08:33 - notes: capture debugging checklist
 - 2026-10-20 09:09 - test: simulate slow network
+- 2026-10-20 09:31 - chore: update license header
