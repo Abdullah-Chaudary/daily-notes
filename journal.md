@@ -461,3 +461,4 @@
 - 2026-10-20 06:16 - wip: checkpoint current work
 - 2026-10-20 07:20 - chore: refresh lockfile
 - 2026-10-20 08:33 - notes: capture debugging checklist
+- 2026-10-20 09:09 - test: simulate slow network
