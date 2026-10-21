@@ -471,3 +471,4 @@
 - 2026-10-21 06:59 - docs: link related topics
 - 2026-10-21 07:27 - build: add reproducible build script
 - 2026-10-21 07:49 - docs: record debugging session notes
+- 2026-10-21 09:09 - refactor: standardize log formatting
