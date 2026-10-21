@@ -475,3 +475,4 @@
 - 2026-10-21 09:45 - wip: save intermediate progress
 - 2026-10-21 10:59 - docs: reorganize topic index
 - 2026-10-21 11:49 - fix: adjust sorting for locale
+- 2026-10-21 12:44 - test: add integration test for sync
