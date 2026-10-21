@@ -474,3 +474,4 @@
 - 2026-10-21 09:09 - refactor: standardize log formatting
 - 2026-10-21 09:45 - wip: save intermediate progress
 - 2026-10-21 10:59 - docs: reorganize topic index
+- 2026-10-21 11:49 - fix: adjust sorting for locale
