@@ -477,3 +477,4 @@
 - 2026-10-21 11:49 - fix: adjust sorting for locale
 - 2026-10-21 12:44 - test: add integration test for sync
 - 2026-10-21 13:54 - fix: handle timezone edge case
+- 2026-10-21 14:24 - docs: update project README
