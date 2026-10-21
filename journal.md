@@ -470,3 +470,4 @@
 - 2026-10-20 14:49 - notes: brainstorm feature ideas
 - 2026-10-21 06:59 - docs: link related topics
 - 2026-10-21 07:27 - build: add reproducible build script
+- 2026-10-21 07:49 - docs: record debugging session notes
