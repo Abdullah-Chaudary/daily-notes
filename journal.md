@@ -478,3 +478,4 @@
 - 2026-10-21 12:44 - test: add integration test for sync
 - 2026-10-21 13:54 - fix: handle timezone edge case
 - 2026-10-21 14:24 - docs: update project README
+- 2026-10-21 14:56 - fix: normalize inconsistent line endings
