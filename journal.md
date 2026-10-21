@@ -473,3 +473,4 @@
 - 2026-10-21 07:49 - docs: record debugging session notes
 - 2026-10-21 09:09 - refactor: standardize log formatting
 - 2026-10-21 09:45 - wip: save intermediate progress
+- 2026-10-21 10:59 - docs: reorganize topic index
