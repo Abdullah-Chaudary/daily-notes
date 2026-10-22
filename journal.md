@@ -479,3 +479,4 @@
 - 2026-10-21 13:54 - fix: handle timezone edge case
 - 2026-10-21 14:24 - docs: update project README
 - 2026-10-21 14:56 - fix: normalize inconsistent line endings
+- 2026-10-22 11:26 - security: restrict CORS origins
