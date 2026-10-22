@@ -481,3 +481,4 @@
 - 2026-10-21 14:56 - fix: normalize inconsistent line endings
 - 2026-10-22 11:26 - security: restrict CORS origins
 - 2026-10-22 12:03 - wip: commit checkpoint before revert
+- 2026-10-22 12:40 - refactor: centralize timestamp logic
