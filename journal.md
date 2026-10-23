@@ -491,3 +491,4 @@
 - 2026-10-23 13:10 - chore: prune unused deps
 - 2026-10-23 13:30 - wip: park work in progress
 - 2026-10-23 14:10 - test: parametrize date tests
+- 2026-10-23 14:45 - chore: trim oversized diffs
