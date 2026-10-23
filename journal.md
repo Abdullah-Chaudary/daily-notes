@@ -487,3 +487,4 @@
 - 2026-10-23 09:51 - notes: capture meeting takeaways
 - 2026-10-23 10:28 - docs: add daily learning notes
 - 2026-10-23 10:54 - test: validate output format
+- 2026-10-23 11:58 - docs: draft chapter on error handling
