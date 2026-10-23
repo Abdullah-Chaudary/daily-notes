@@ -482,3 +482,4 @@
 - 2026-10-22 11:26 - security: restrict CORS origins
 - 2026-10-22 12:03 - wip: commit checkpoint before revert
 - 2026-10-22 12:40 - refactor: centralize timestamp logic
+- 2026-10-23 07:53 - style: shorten verbose conditionals
