@@ -490,3 +490,4 @@
 - 2026-10-23 11:58 - docs: draft chapter on error handling
 - 2026-10-23 13:10 - chore: prune unused deps
 - 2026-10-23 13:30 - wip: park work in progress
+- 2026-10-23 14:10 - test: parametrize date tests
