@@ -494,3 +494,4 @@
 - 2026-10-23 14:45 - chore: trim oversized diffs
 - 2026-10-24 12:32 - wip: mid-way through migration
 - 2026-10-24 13:18 - style: clean up trailing whitespace
+- 2026-10-24 13:53 - test: exercise large payloads
