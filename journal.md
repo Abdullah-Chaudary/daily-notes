@@ -504,3 +504,4 @@
 - 2026-10-26 12:24 - test: extend coverage for config
 - 2026-10-27 11:20 - docs: clean up outdated examples
 - 2026-10-27 12:02 - refactor: standardize log formatting
+- 2026-10-27 13:04 - chore: consolidate config files
