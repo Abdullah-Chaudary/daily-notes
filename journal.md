@@ -507,3 +507,4 @@
 - 2026-10-27 13:04 - chore: consolidate config files
 - 2026-10-27 13:53 - style: fix heading hierarchy
 - 2026-10-27 14:44 - notes: document API endpoint table
+- 2026-10-27 15:13 - style: adjust naming to snake_case
