@@ -505,3 +505,4 @@
 - 2026-10-27 11:20 - docs: clean up outdated examples
 - 2026-10-27 12:02 - refactor: standardize log formatting
 - 2026-10-27 13:04 - chore: consolidate config files
+- 2026-10-27 13:53 - style: fix heading hierarchy
