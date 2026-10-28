@@ -513,3 +513,4 @@
 - 2026-10-28 08:16 - docs: expand architecture overview
 - 2026-10-28 09:25 - fix: patch race condition in cache
 - 2026-10-28 10:19 - chore: reorganize docs folder
+- 2026-10-28 11:33 - style: shorten verbose conditionals
