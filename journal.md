@@ -517,3 +517,4 @@
 - 2026-10-28 12:03 - test: confirm sorting is stable
 - 2026-10-28 13:16 - wip: commit checkpoint before revert
 - 2026-10-28 14:32 - wip: rough draft of algorithm
+- 2026-10-28 15:14 - fix: fix broken anchor links
