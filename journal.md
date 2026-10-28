@@ -510,3 +510,4 @@
 - 2026-10-27 15:13 - style: adjust naming to snake_case
 - 2026-10-28 05:53 - style: group related statements
 - 2026-10-28 07:05 - notes: draft interview cheat sheet
+- 2026-10-28 08:16 - docs: expand architecture overview
