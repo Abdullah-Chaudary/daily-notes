@@ -509,3 +509,4 @@
 - 2026-10-27 14:44 - notes: document API endpoint table
 - 2026-10-27 15:13 - style: adjust naming to snake_case
 - 2026-10-28 05:53 - style: group related statements
+- 2026-10-28 07:05 - notes: draft interview cheat sheet
