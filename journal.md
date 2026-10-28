@@ -514,3 +514,4 @@
 - 2026-10-28 09:25 - fix: patch race condition in cache
 - 2026-10-28 10:19 - chore: reorganize docs folder
 - 2026-10-28 11:33 - style: shorten verbose conditionals
+- 2026-10-28 12:03 - test: confirm sorting is stable
