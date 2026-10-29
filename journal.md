@@ -519,3 +519,4 @@
 - 2026-10-28 14:32 - wip: rough draft of algorithm
 - 2026-10-28 15:14 - fix: fix broken anchor links
 - 2026-10-28 16:29 - test: assert error messages
+- 2026-10-29 12:04 - wip: snapshot before refactor
