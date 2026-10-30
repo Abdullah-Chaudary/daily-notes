@@ -522,3 +522,4 @@
 - 2026-10-29 12:04 - wip: snapshot before refactor
 - 2026-10-29 12:32 - fix: normalize inconsistent line endings
 - 2026-10-29 13:07 - chore: update editorconfig
+- 2026-10-30 12:12 - test: parametrize date tests
