@@ -526,3 +526,4 @@
 - 2026-10-30 13:17 - docs: summarize weekly review
 - 2026-10-31 08:48 - fix: reset state between runs
 - 2026-10-31 09:20 - notes: sketch system design diagram
+- 2026-10-31 10:00 - refactor: tidy up module boundaries
