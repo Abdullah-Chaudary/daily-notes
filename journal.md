@@ -529,3 +529,4 @@
 - 2026-10-31 10:00 - refactor: tidy up module boundaries
 - 2026-10-31 11:01 - feat: add file watcher
 - 2026-10-31 12:16 - refactor: centralize timestamp logic
+- 2026-10-31 13:33 - docs: polish changelog entries
