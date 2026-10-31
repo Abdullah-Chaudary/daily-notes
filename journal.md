@@ -525,3 +525,4 @@
 - 2026-10-30 12:12 - test: parametrize date tests
 - 2026-10-30 13:17 - docs: summarize weekly review
 - 2026-10-31 08:48 - fix: reset state between runs
+- 2026-10-31 09:20 - notes: sketch system design diagram
