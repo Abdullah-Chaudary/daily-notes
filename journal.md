@@ -534,3 +534,4 @@
 - 2026-11-01 08:33 - docs: clarify installation steps
 - 2026-11-01 09:16 - style: sort imports alphabetically
 - 2026-11-01 09:54 - wip: stage exploratory change
+- 2026-11-01 10:40 - chore: sync package metadata
