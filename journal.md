@@ -539,3 +539,4 @@
 - 2026-11-01 11:36 - docs: expand comment coverage
 - 2026-11-01 11:58 - chore: remove stale TODOs
 - 2026-11-01 13:09 - feat: add template rendering
+- 2026-11-01 14:26 - fix: close resource leak on error
