@@ -537,3 +537,4 @@
 - 2026-11-01 10:40 - chore: sync package metadata
 - 2026-11-01 11:11 - docs: rewrite getting-started guide
 - 2026-11-01 11:36 - docs: expand comment coverage
+- 2026-11-01 11:58 - chore: remove stale TODOs
