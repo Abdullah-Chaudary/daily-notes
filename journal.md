@@ -531,3 +531,4 @@
 - 2026-10-31 12:16 - refactor: centralize timestamp logic
 - 2026-10-31 13:33 - docs: polish changelog entries
 - 2026-10-31 14:36 - docs: summarize weekly review
+- 2026-11-01 08:33 - docs: clarify installation steps
