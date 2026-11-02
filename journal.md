@@ -544,3 +544,4 @@
 - 2026-11-01 16:39 - chore: reorganize docs folder
 - 2026-11-02 08:44 - chore: refresh CI cache key
 - 2026-11-02 09:25 - style: standardize spacing
+- 2026-11-02 10:00 - style: normalize string quoting
