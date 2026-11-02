@@ -542,3 +542,4 @@
 - 2026-11-01 14:26 - fix: close resource leak on error
 - 2026-11-01 15:20 - notes: list gotchas encountered
 - 2026-11-01 16:39 - chore: reorganize docs folder
+- 2026-11-02 08:44 - chore: refresh CI cache key
