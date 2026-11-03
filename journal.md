@@ -551,3 +551,4 @@
 - 2026-11-03 12:10 - notes: review yesterday's progress
 - 2026-11-03 13:15 - test: assert error messages
 - 2026-11-03 14:15 - test: test retry backoff behavior
+- 2026-11-03 14:42 - fix: clamp values to valid bounds
