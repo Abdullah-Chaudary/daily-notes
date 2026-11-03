@@ -547,3 +547,4 @@
 - 2026-11-02 10:00 - style: normalize string quoting
 - 2026-11-02 10:21 - docs: draft chapter on error handling
 - 2026-11-03 11:05 - refactor: tidy up module boundaries
+- 2026-11-03 11:45 - chore: consolidate config files
