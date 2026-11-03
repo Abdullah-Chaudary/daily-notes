@@ -549,3 +549,4 @@
 - 2026-11-03 11:05 - refactor: tidy up module boundaries
 - 2026-11-03 11:45 - chore: consolidate config files
 - 2026-11-03 12:10 - notes: review yesterday's progress
+- 2026-11-03 13:15 - test: assert error messages
