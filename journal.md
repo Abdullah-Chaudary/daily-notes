@@ -559,3 +559,4 @@
 - 2026-11-04 10:55 - test: cover empty-input scenarios
 - 2026-11-04 11:57 - chore: final cleanup pass
 - 2026-11-04 12:48 - style: wrap long signatures
+- 2026-11-04 13:52 - docs: clean up outdated examples
