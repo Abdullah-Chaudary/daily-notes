@@ -567,3 +567,4 @@
 - 2026-11-05 12:57 - fix: fix broken anchor links
 - 2026-11-05 13:54 - docs: revise intro paragraph
 - 2026-11-05 14:28 - refactor: extract shared helper
+- 2026-11-05 15:02 - chore: consolidate config files
