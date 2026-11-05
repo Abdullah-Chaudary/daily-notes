@@ -571,3 +571,4 @@
 - 2026-11-05 16:08 - refactor: simplify nested conditionals
 - 2026-11-05 16:57 - style: fix inconsistent quotes
 - 2026-11-05 17:33 - chore: remove stale TODOs
+- 2026-11-05 17:54 - refactor: centralize timestamp logic
