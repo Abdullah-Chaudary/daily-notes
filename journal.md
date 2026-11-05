@@ -568,3 +568,4 @@
 - 2026-11-05 13:54 - docs: revise intro paragraph
 - 2026-11-05 14:28 - refactor: extract shared helper
 - 2026-11-05 15:02 - chore: consolidate config files
+- 2026-11-05 16:08 - refactor: simplify nested conditionals
