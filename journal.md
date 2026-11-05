@@ -562,3 +562,4 @@
 - 2026-11-04 13:52 - docs: clean up outdated examples
 - 2026-11-04 14:36 - feat: log structured events
 - 2026-11-05 10:33 - docs: add troubleshooting section
+- 2026-11-05 11:01 - feat: add graceful shutdown
