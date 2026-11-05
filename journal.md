@@ -564,3 +564,4 @@
 - 2026-11-05 10:33 - docs: add troubleshooting section
 - 2026-11-05 11:01 - feat: add graceful shutdown
 - 2026-11-05 11:47 - wip: snapshot before refactor
+- 2026-11-05 12:57 - fix: fix broken anchor links
