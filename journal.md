@@ -570,3 +570,4 @@
 - 2026-11-05 15:02 - chore: consolidate config files
 - 2026-11-05 16:08 - refactor: simplify nested conditionals
 - 2026-11-05 16:57 - style: fix inconsistent quotes
+- 2026-11-05 17:33 - chore: remove stale TODOs
