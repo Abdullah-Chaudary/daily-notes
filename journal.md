@@ -572,3 +572,4 @@
 - 2026-11-05 16:57 - style: fix inconsistent quotes
 - 2026-11-05 17:33 - chore: remove stale TODOs
 - 2026-11-05 17:54 - refactor: centralize timestamp logic
+- 2026-11-06 08:58 - notes: summarize conference talk
