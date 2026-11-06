@@ -573,3 +573,4 @@
 - 2026-11-05 17:33 - chore: remove stale TODOs
 - 2026-11-05 17:54 - refactor: centralize timestamp logic
 - 2026-11-06 08:58 - notes: summarize conference talk
+- 2026-11-06 09:33 - test: test retry backoff behavior
