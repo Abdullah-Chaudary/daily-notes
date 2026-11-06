@@ -575,3 +575,4 @@
 - 2026-11-06 08:58 - notes: summarize conference talk
 - 2026-11-06 09:33 - test: test retry backoff behavior
 - 2026-11-06 10:52 - wip: stage exploratory change
+- 2026-11-06 11:23 - docs: expand comment coverage
