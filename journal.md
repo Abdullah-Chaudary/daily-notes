@@ -581,3 +581,4 @@
 - 2026-11-08 10:38 - feat: build search filter builder
 - 2026-11-08 11:17 - test: reproduce reported bug
 - 2026-11-08 12:32 - notes: list gotchas encountered
+- 2026-11-08 13:00 - style: convert tabs to spaces
