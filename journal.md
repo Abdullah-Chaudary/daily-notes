@@ -585,3 +585,4 @@
 - 2026-11-08 13:50 - test: cover rollback path
 - 2026-11-08 15:07 - refactor: split large function into parts
 - 2026-11-08 15:28 - feat: implement rate limiter
+- 2026-11-08 16:32 - chore: refresh CI cache key
