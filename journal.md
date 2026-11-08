@@ -584,3 +584,4 @@
 - 2026-11-08 13:00 - style: convert tabs to spaces
 - 2026-11-08 13:50 - test: cover rollback path
 - 2026-11-08 15:07 - refactor: split large function into parts
+- 2026-11-08 15:28 - feat: implement rate limiter
