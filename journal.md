@@ -577,3 +577,4 @@
 - 2026-11-06 10:52 - wip: stage exploratory change
 - 2026-11-06 11:23 - docs: expand comment coverage
 - 2026-11-08 09:18 - refactor: rename module for clarity
+- 2026-11-08 09:49 - refactor: unify error handling paths
