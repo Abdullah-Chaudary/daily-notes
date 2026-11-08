@@ -579,3 +579,4 @@
 - 2026-11-08 09:18 - refactor: rename module for clarity
 - 2026-11-08 09:49 - refactor: unify error handling paths
 - 2026-11-08 10:38 - feat: build search filter builder
+- 2026-11-08 11:17 - test: reproduce reported bug
