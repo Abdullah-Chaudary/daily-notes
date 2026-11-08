@@ -582,3 +582,4 @@
 - 2026-11-08 11:17 - test: reproduce reported bug
 - 2026-11-08 12:32 - notes: list gotchas encountered
 - 2026-11-08 13:00 - style: convert tabs to spaces
+- 2026-11-08 13:50 - test: cover rollback path
