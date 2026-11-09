@@ -593,3 +593,4 @@
 - 2026-11-09 13:49 - refactor: replace callbacks with promises
 - 2026-11-09 14:43 - refactor: clean up test fixtures
 - 2026-11-09 15:54 - test: snapshot serializer output
+- 2026-11-09 16:40 - wip: park work in progress
