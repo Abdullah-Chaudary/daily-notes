@@ -587,3 +587,4 @@
 - 2026-11-08 15:28 - feat: implement rate limiter
 - 2026-11-08 16:32 - chore: refresh CI cache key
 - 2026-11-09 11:13 - notes: summarize conference talk
+- 2026-11-09 11:36 - chore: add .gitignore entries
