@@ -590,3 +590,4 @@
 - 2026-11-09 11:36 - chore: add .gitignore entries
 - 2026-11-09 12:46 - wip: rough draft of algorithm
 - 2026-11-09 13:14 - refactor: unify error handling paths
+- 2026-11-09 13:49 - refactor: replace callbacks with promises
