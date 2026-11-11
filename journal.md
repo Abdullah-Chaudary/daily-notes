@@ -595,3 +595,4 @@
 - 2026-11-09 15:54 - test: snapshot serializer output
 - 2026-11-09 16:40 - wip: park work in progress
 - 2026-11-09 17:46 - test: exercise large payloads
+- 2026-11-11 09:02 - notes: sketch system design diagram
