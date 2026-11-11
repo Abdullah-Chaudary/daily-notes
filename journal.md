@@ -604,3 +604,4 @@
 - 2026-11-11 14:55 - refactor: replace callbacks with promises
 - 2026-11-11 15:50 - test: ensure idempotent runs
 - 2026-11-11 16:13 - refactor: extract validation into module
+- 2026-11-11 17:08 - docs: update project README
