@@ -602,3 +602,4 @@
 - 2026-11-11 12:57 - docs: link related topics
 - 2026-11-11 14:16 - feat: add template rendering
 - 2026-11-11 14:55 - refactor: replace callbacks with promises
+- 2026-11-11 15:50 - test: ensure idempotent runs
