@@ -601,3 +601,4 @@
 - 2026-11-11 11:48 - docs: clarify installation steps
 - 2026-11-11 12:57 - docs: link related topics
 - 2026-11-11 14:16 - feat: add template rendering
+- 2026-11-11 14:55 - refactor: replace callbacks with promises
