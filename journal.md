@@ -599,3 +599,4 @@
 - 2026-11-11 10:18 - wip: commit checkpoint before revert
 - 2026-11-11 11:10 - perf: preallocate buffers
 - 2026-11-11 11:48 - docs: clarify installation steps
+- 2026-11-11 12:57 - docs: link related topics
