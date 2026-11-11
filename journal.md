@@ -598,3 +598,4 @@
 - 2026-11-11 09:02 - notes: sketch system design diagram
 - 2026-11-11 10:18 - wip: commit checkpoint before revert
 - 2026-11-11 11:10 - perf: preallocate buffers
+- 2026-11-11 11:48 - docs: clarify installation steps
