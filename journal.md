@@ -596,3 +596,4 @@
 - 2026-11-09 16:40 - wip: park work in progress
 - 2026-11-09 17:46 - test: exercise large payloads
 - 2026-11-11 09:02 - notes: sketch system design diagram
+- 2026-11-11 10:18 - wip: commit checkpoint before revert
