@@ -609,3 +609,4 @@
 - 2026-11-12 08:42 - wip: commit checkpoint before revert
 - 2026-11-12 09:52 - feat: support env-based config
 - 2026-11-12 10:25 - notes: outline weekend study plan
+- 2026-11-12 11:07 - docs: refine notes on async patterns
