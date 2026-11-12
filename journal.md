@@ -611,3 +611,4 @@
 - 2026-11-12 10:25 - notes: outline weekend study plan
 - 2026-11-12 11:07 - docs: refine notes on async patterns
 - 2026-11-12 11:49 - chore: update license header
+- 2026-11-12 12:42 - refactor: replace callbacks with promises
