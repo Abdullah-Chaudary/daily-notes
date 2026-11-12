@@ -613,3 +613,4 @@
 - 2026-11-12 11:49 - chore: update license header
 - 2026-11-12 12:42 - refactor: replace callbacks with promises
 - 2026-11-12 13:08 - wip: partial implementation of filter
+- 2026-11-12 14:15 - fix: adjust sorting for locale
