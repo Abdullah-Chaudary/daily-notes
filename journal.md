@@ -606,3 +606,4 @@
 - 2026-11-11 16:13 - refactor: extract validation into module
 - 2026-11-11 17:08 - docs: update project README
 - 2026-11-11 17:46 - chore: remove stale TODOs
+- 2026-11-12 08:42 - wip: commit checkpoint before revert
