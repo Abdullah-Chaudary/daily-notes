@@ -608,3 +608,4 @@
 - 2026-11-11 17:46 - chore: remove stale TODOs
 - 2026-11-12 08:42 - wip: commit checkpoint before revert
 - 2026-11-12 09:52 - feat: support env-based config
+- 2026-11-12 10:25 - notes: outline weekend study plan
