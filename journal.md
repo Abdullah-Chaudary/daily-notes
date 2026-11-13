@@ -618,3 +618,4 @@
 - 2026-11-12 16:24 - perf: skip redundant checks
 - 2026-11-12 16:54 - chore: tidy workspace settings
 - 2026-11-13 12:48 - feat: wire up notification hook
+- 2026-11-13 13:55 - test: cover rollback path
