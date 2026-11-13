@@ -620,3 +620,4 @@
 - 2026-11-13 12:48 - feat: wire up notification hook
 - 2026-11-13 13:55 - test: cover rollback path
 - 2026-11-13 14:54 - fix: clamp values to valid bounds
+- 2026-11-13 15:25 - feat: add first-pass validation
