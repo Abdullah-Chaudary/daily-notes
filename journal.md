@@ -617,3 +617,4 @@
 - 2026-11-12 15:10 - security: restrict CORS origins
 - 2026-11-12 16:24 - perf: skip redundant checks
 - 2026-11-12 16:54 - chore: tidy workspace settings
+- 2026-11-13 12:48 - feat: wire up notification hook
