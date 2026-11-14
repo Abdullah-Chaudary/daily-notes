@@ -623,3 +623,4 @@
 - 2026-11-13 15:25 - feat: add first-pass validation
 - 2026-11-13 16:28 - test: exercise large payloads
 - 2026-11-13 17:33 - build: cache intermediate artifacts
+- 2026-11-14 10:56 - feat: support env-based config
