@@ -624,3 +624,4 @@
 - 2026-11-13 16:28 - test: exercise large payloads
 - 2026-11-13 17:33 - build: cache intermediate artifacts
 - 2026-11-14 10:56 - feat: support env-based config
+- 2026-11-16 11:40 - refactor: extract shared helper
