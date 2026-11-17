@@ -633,3 +633,4 @@
 - 2026-11-17 14:02 - chore: update linter rules
 - 2026-11-17 15:00 - test: add regression test for #123
 - 2026-11-17 16:18 - docs: expand architecture overview
+- 2026-11-17 16:42 - chore: adopt new lint preset
