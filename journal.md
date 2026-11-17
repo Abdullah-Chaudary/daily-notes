@@ -628,3 +628,4 @@
 - 2026-11-16 12:28 - style: normalize string quoting
 - 2026-11-16 13:20 - notes: draft interview cheat sheet
 - 2026-11-17 11:55 - style: tidy blank lines
+- 2026-11-17 12:57 - docs: rewrite getting-started guide
