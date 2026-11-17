@@ -631,3 +631,4 @@
 - 2026-11-17 12:57 - docs: rewrite getting-started guide
 - 2026-11-17 13:31 - notes: sketch system design diagram
 - 2026-11-17 14:02 - chore: update linter rules
+- 2026-11-17 15:00 - test: add regression test for #123
