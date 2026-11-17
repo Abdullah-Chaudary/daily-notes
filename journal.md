@@ -630,3 +630,4 @@
 - 2026-11-17 11:55 - style: tidy blank lines
 - 2026-11-17 12:57 - docs: rewrite getting-started guide
 - 2026-11-17 13:31 - notes: sketch system design diagram
+- 2026-11-17 14:02 - chore: update linter rules
