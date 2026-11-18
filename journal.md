@@ -645,3 +645,4 @@
 - 2026-11-18 15:02 - test: check concurrent writes
 - 2026-11-18 15:55 - refactor: clean up test fixtures
 - 2026-11-18 17:09 - chore: initialize repo structure
+- 2026-11-18 17:40 - docs: expand FAQ coverage
