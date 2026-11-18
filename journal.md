@@ -638,3 +638,4 @@
 - 2026-11-17 18:05 - feat: build search filter builder
 - 2026-11-18 09:37 - chore: trim oversized diffs
 - 2026-11-18 10:04 - docs: clarify installation steps
+- 2026-11-18 10:29 - refactor: drop dead code
