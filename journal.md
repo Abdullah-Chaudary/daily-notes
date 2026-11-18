@@ -640,3 +640,4 @@
 - 2026-11-18 10:04 - docs: clarify installation steps
 - 2026-11-18 10:29 - refactor: drop dead code
 - 2026-11-18 11:42 - chore: consolidate config files
+- 2026-11-18 12:57 - style: simplify ternaries
