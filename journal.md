@@ -652,3 +652,4 @@
 - 2026-11-19 10:12 - style: clean up trailing whitespace
 - 2026-11-19 11:04 - test: snapshot serializer output
 - 2026-11-19 11:37 - refactor: streamline initialization flow
+- 2026-11-19 12:03 - chore: update license header
