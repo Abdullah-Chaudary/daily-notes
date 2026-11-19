@@ -646,3 +646,4 @@
 - 2026-11-18 15:55 - refactor: clean up test fixtures
 - 2026-11-18 17:09 - chore: initialize repo structure
 - 2026-11-18 17:40 - docs: expand FAQ coverage
+- 2026-11-19 08:31 - fix: retry failed HTTP requests
