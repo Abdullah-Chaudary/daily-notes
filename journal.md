@@ -661,3 +661,4 @@
 - 2026-11-20 13:35 - docs: expand comment coverage
 - 2026-11-20 14:15 - test: cover empty-input scenarios
 - 2026-11-20 14:52 - docs: summarize weekly review
+- 2026-11-20 16:06 - chore: update local dev scripts
