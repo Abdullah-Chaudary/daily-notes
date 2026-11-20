@@ -657,3 +657,4 @@
 - 2026-11-19 14:11 - chore: update local dev scripts
 - 2026-11-19 15:15 - refactor: drop dead code
 - 2026-11-19 16:08 - fix: guard against division by zero
+- 2026-11-20 12:57 - refactor: centralize timestamp logic
