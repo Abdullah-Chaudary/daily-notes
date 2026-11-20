@@ -662,3 +662,4 @@
 - 2026-11-20 14:15 - test: cover empty-input scenarios
 - 2026-11-20 14:52 - docs: summarize weekly review
 - 2026-11-20 16:06 - chore: update local dev scripts
+- 2026-11-20 16:28 - fix: guard against division by zero
