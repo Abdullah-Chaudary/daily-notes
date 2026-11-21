@@ -673,3 +673,4 @@
 - 2026-11-21 13:26 - fix: patch race condition in cache
 - 2026-11-21 14:34 - style: group related statements
 - 2026-11-21 15:53 - test: validate output format
+- 2026-11-21 17:12 - docs: update project README
