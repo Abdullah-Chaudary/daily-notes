@@ -667,3 +667,4 @@
 - 2026-11-21 08:23 - feat: introduce event emitter
 - 2026-11-21 09:21 - perf: trim redundant work
 - 2026-11-21 10:39 - notes: plan next sprint backlog
+- 2026-11-21 11:07 - docs: add usage examples
