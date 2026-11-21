@@ -669,3 +669,4 @@
 - 2026-11-21 10:39 - notes: plan next sprint backlog
 - 2026-11-21 11:07 - docs: add usage examples
 - 2026-11-21 12:02 - refactor: tidy up module boundaries
+- 2026-11-21 12:45 - feat: log structured events
