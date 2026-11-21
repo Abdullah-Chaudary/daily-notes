@@ -670,3 +670,4 @@
 - 2026-11-21 11:07 - docs: add usage examples
 - 2026-11-21 12:02 - refactor: tidy up module boundaries
 - 2026-11-21 12:45 - feat: log structured events
+- 2026-11-21 13:26 - fix: patch race condition in cache
