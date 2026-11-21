@@ -664,3 +664,4 @@
 - 2026-11-20 16:06 - chore: update local dev scripts
 - 2026-11-20 16:28 - fix: guard against division by zero
 - 2026-11-20 17:30 - notes: log experiment results
+- 2026-11-21 08:23 - feat: introduce event emitter
