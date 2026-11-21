@@ -671,3 +671,4 @@
 - 2026-11-21 12:02 - refactor: tidy up module boundaries
 - 2026-11-21 12:45 - feat: log structured events
 - 2026-11-21 13:26 - fix: patch race condition in cache
+- 2026-11-21 14:34 - style: group related statements
