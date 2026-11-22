@@ -674,3 +674,4 @@
 - 2026-11-21 14:34 - style: group related statements
 - 2026-11-21 15:53 - test: validate output format
 - 2026-11-21 17:12 - docs: update project README
+- 2026-11-22 11:33 - style: wrap long signatures
