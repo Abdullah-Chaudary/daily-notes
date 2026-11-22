@@ -678,3 +678,4 @@
 - 2026-11-22 12:10 - docs: fill in missing references
 - 2026-11-22 13:28 - refactor: extract shared helper
 - 2026-11-22 14:00 - wip: rough draft of algorithm
+- 2026-11-22 15:03 - chore: apply formatter pass
