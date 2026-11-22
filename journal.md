@@ -676,3 +676,4 @@
 - 2026-11-21 17:12 - docs: update project README
 - 2026-11-22 11:33 - style: wrap long signatures
 - 2026-11-22 12:10 - docs: fill in missing references
+- 2026-11-22 13:28 - refactor: extract shared helper
