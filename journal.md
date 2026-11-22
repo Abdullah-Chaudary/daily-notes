@@ -680,3 +680,4 @@
 - 2026-11-22 14:00 - wip: rough draft of algorithm
 - 2026-11-22 15:03 - chore: apply formatter pass
 - 2026-11-22 15:28 - feat: add graceful shutdown
+- 2026-11-22 16:44 - style: fix heading hierarchy
