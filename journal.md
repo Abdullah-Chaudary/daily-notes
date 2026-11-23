@@ -685,3 +685,4 @@
 - 2026-11-23 10:29 - chore: trim oversized diffs
 - 2026-11-23 11:16 - test: assert error messages
 - 2026-11-23 11:50 - style: tidy blank lines
+- 2026-11-23 12:36 - feat: add file watcher
