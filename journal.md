@@ -682,3 +682,4 @@
 - 2026-11-22 15:28 - feat: add graceful shutdown
 - 2026-11-22 16:44 - style: fix heading hierarchy
 - 2026-11-23 09:58 - refactor: clean up test fixtures
+- 2026-11-23 10:29 - chore: trim oversized diffs
