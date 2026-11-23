@@ -681,3 +681,4 @@
 - 2026-11-22 15:03 - chore: apply formatter pass
 - 2026-11-22 15:28 - feat: add graceful shutdown
 - 2026-11-22 16:44 - style: fix heading hierarchy
+- 2026-11-23 09:58 - refactor: clean up test fixtures
