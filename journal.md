@@ -684,3 +684,4 @@
 - 2026-11-23 09:58 - refactor: clean up test fixtures
 - 2026-11-23 10:29 - chore: trim oversized diffs
 - 2026-11-23 11:16 - test: assert error messages
+- 2026-11-23 11:50 - style: tidy blank lines
