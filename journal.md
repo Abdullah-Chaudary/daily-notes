@@ -686,3 +686,4 @@
 - 2026-11-23 11:16 - test: assert error messages
 - 2026-11-23 11:50 - style: tidy blank lines
 - 2026-11-23 12:36 - feat: add file watcher
+- 2026-11-23 12:59 - test: add unit tests for parser
