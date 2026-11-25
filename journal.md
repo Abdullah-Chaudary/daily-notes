@@ -695,3 +695,4 @@
 - 2026-11-25 13:28 - test: assert error messages
 - 2026-11-25 13:56 - style: fix heading hierarchy
 - 2026-11-25 14:45 - test: mock external service calls
+- 2026-11-25 15:51 - docs: refine notes on async patterns
