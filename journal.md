@@ -692,3 +692,4 @@
 - 2026-11-25 10:48 - refactor: simplify branching logic
 - 2026-11-25 12:04 - chore: archive old notes
 - 2026-11-25 12:27 - feat: scaffold new module skeleton
+- 2026-11-25 13:28 - test: assert error messages
