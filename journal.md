@@ -690,3 +690,4 @@
 - 2026-11-23 14:14 - build: add reproducible build script
 - 2026-11-24 12:24 - feat: support multiple output formats
 - 2026-11-25 10:48 - refactor: simplify branching logic
+- 2026-11-25 12:04 - chore: archive old notes
