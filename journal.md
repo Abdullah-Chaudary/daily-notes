@@ -698,3 +698,4 @@
 - 2026-11-25 15:51 - docs: refine notes on async patterns
 - 2026-11-25 16:33 - feat: implement session restore
 - 2026-11-26 08:06 - fix: restore missing import
+- 2026-11-26 09:07 - docs: annotate key design decisions
