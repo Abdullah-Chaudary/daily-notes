@@ -697,3 +697,4 @@
 - 2026-11-25 14:45 - test: mock external service calls
 - 2026-11-25 15:51 - docs: refine notes on async patterns
 - 2026-11-25 16:33 - feat: implement session restore
+- 2026-11-26 08:06 - fix: restore missing import
