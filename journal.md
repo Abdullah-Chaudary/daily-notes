@@ -700,3 +700,4 @@
 - 2026-11-26 08:06 - fix: restore missing import
 - 2026-11-26 09:07 - docs: annotate key design decisions
 - 2026-11-27 11:26 - refactor: unify error handling paths
+- 2026-11-27 12:08 - wip: partial implementation of filter
